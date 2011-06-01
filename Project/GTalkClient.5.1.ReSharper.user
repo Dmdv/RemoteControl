@@ -3,6 +3,7 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">True</setting>
     </boolean>
   </SettingsComponent>
@@ -10,18 +11,44 @@
     <RecentFiles>
       <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:MainForm.cs" caret="199" fromTop="0" />
       <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:Program.cs" caret="53" fromTop="3" />
-      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="0" fromTop="0" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="668" fromTop="26" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:MessageArgs.cs" caret="175" fromTop="8" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:PeersCollection.cs" caret="252" fromTop="9" />
+      <File id="42C1F77E-B91E-4059-921D-0CF8F58113AB/f:Program.cs" caret="1925" fromTop="10" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:GTalkRules.cs" caret="452" fromTop="17" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="915" fromTop="0" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2023" fromTop="12" />
     </RecentFiles>
     <RecentEdits>
-      <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:Program.cs" caret="53" fromTop="3" />
-      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="0" fromTop="0" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="12" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="4" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="29" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="35" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="137" fromTop="5" />
-      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="827" fromTop="30" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="1716" fromTop="23" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2347" fromTop="25" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2347" fromTop="31" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2347" fromTop="14" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2347" fromTop="7" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2347" fromTop="71" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="494" fromTop="16" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="1352" fromTop="19" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:PeersCollection.cs" caret="263" fromTop="5" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:PeersCollection.cs" caret="263" fromTop="11" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="1633" fromTop="15" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="942" fromTop="37" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="841" fromTop="30" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="1084" fromTop="16" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="2012" fromTop="32" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="1993" fromTop="30" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="84" fromTop="7" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="84" fromTop="3" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:GTalkRules.cs" caret="263" fromTop="10" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:GTalkRules.cs" caret="555" fromTop="21" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:GTalkRules.cs" caret="450" fromTop="17" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="1276" fromTop="16" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="1596" fromTop="29" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="441" fromTop="15" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="598" fromTop="11" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="926" fromTop="14" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="1054" fromTop="18" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="845" fromTop="7" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="845" fromTop="12" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="809" fromTop="20" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -39,23 +66,50 @@
     <ItemStatistics item="Default">
       <Item value="psvm" priority="1" />
       <Item value="psr" priority="1" />
-      <Item value="pvm" priority="2" />
+      <Item value="pvm" priority="3" />
       <Item value="static" priority="1" />
       <Item value="Program`0" priority="0" />
       <Item value="ctx" priority="0" />
       <Item value="LogOut`0" priority="0" />
       <Item value="outv" priority="0" />
       <Item value="element" priority="0" />
-      <Item value="new" priority="1" />
+      <Item value="new" priority="13" />
       <Item value="AutoResetEvent" priority="0" />
       <Item value="false" priority="0" />
       <Item value="_ev" priority="0" />
       <Item value="msg" priority="0" />
       <Item value="TestPeerLogin`0" priority="0" />
       <Item value="Peer" priority="0" />
+      <Item value="peer" priority="6" />
+      <Item value="class" priority="3" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="MessageArgs`0" priority="0" />
+      <Item value="string" priority="11" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="ICollection" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="recipientPeer" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="_peers" priority="2" />
+      <Item value="ReadOnlyCollection&lt;string&gt;" priority="0" />
+      <Item value="KeyedCollection" priority="1" />
+      <Item value="Peer`0" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="PeersCollection" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="item" priority="0" />
+      <Item value="Jid" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="name" priority="4" />
+      <Item value="sealed" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="GTalk" priority="0" />
+      <Item value="user" priority="1" />
+      <Item value="Postfix" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:agsXMPP.XmppClientConnection">
-      <Item value="Close`0" priority="0" />
+      <Item value="Close`0" priority="1" />
       <Item value="ClientSocket" priority="0" />
       <Item value="OnLogin" priority="1" />
       <Item value="OnClose" priority="0" />
@@ -73,6 +127,33 @@
     <ItemStatistics item="Qualified:@agsXMPP.protocol.client.MessageType">
       <Item value="normal" priority="0" />
       <Item value="chat" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.KeyedCollection`2">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GTalk.Client.PeersCollection">
+      <Item value="Contains`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="EndsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GTalk.Client.Peer">
+      <Item value="_user" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:agsXMPP.Jid">
+      <Item value="Bare" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GTalk.Client.GTalkRules">
+      <Item value="ContainsServer`0" priority="0" />
+      <Item value="Postfix" priority="0" />
+      <Item value="FixPostfix`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
