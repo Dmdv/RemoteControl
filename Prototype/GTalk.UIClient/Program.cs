@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
 
+// Test
+
 namespace GTalk.Prototype
 {
     internal static class Program
