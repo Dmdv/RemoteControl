@@ -1,16 +1,50 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTalkClient", "GTalkClient\GTalkClient.csproj", "{B98E70CF-EE38-48E1-8EA3-50300544E792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTalk.ClientLib", "GTalk.ClientLib\GTalk.ClientLib.csproj", "{0F8A2B67-4286-4346-9C90-62B0707E862C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTalk.ConsoleClient", "GTalk.ConsoleClient\GTalk.ConsoleClient.csproj", "{42C1F77E-B91E-4059-921D-0CF8F58113AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTalk.UIClient", "GTalk.UIClient\GTalk.UIClient.csproj", "{B98E70CF-EE38-48E1-8EA3-50300544E792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0F8A2B67-4286-4346-9C90-62B0707E862C}.Release|x86.ActiveCfg = Release|Any CPU
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Debug|x86.ActiveCfg = Debug|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Debug|x86.Build.0 = Debug|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Release|Any CPU.ActiveCfg = Release|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Release|x86.ActiveCfg = Release|x86
+		{42C1F77E-B91E-4059-921D-0CF8F58113AB}.Release|x86.Build.0 = Release|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Debug|Mixed Platforms.Build.0 = Debug|x86
 		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Debug|x86.ActiveCfg = Debug|x86
 		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Debug|x86.Build.0 = Debug|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Release|Any CPU.ActiveCfg = Release|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Release|Mixed Platforms.Build.0 = Release|x86
 		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Release|x86.ActiveCfg = Release|x86
 		{B98E70CF-EE38-48E1-8EA3-50300544E792}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection

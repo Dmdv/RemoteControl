@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GTalkClient")]
+[assembly: AssemblyTitle("GTalk.ConsoleClient")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GTalkClient")]
+[assembly: AssemblyProduct("GTalk.ConsoleClient")]
 [assembly: AssemblyCopyright("Copyright ©  2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("352849c3-e85c-4a5f-8c76-851206fd900c")]
+[assembly: Guid("136cc03c-b5ee-49ef-8744-1eaee4aa280b")]
 
 // Version information for an assembly consists of the following four values:
 //

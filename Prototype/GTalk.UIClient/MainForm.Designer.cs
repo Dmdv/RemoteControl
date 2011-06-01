@@ -1,4 +1,4 @@
-namespace GTalkClient
+namespace GTalk.Prototype
 {
     partial class MainForm
     {

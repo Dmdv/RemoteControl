@@ -6,7 +6,7 @@ using agsXMPP.protocol.iq.roster;
 using agsXMPP.Xml.Dom;
 using Message = agsXMPP.protocol.client.Message;
 
-namespace GTalkClient
+namespace GTalk.Prototype
 {
     public partial class MainForm : Form
     {
@@ -21,7 +21,6 @@ namespace GTalkClient
         private void Init()
         {
             listEvents.Items.Clear();
-
             _xmppCon.OnLogin += OnLogin;
             _xmppCon.OnRosterStart += OnRosterStart;
             _xmppCon.OnRosterEnd += OnRosterEnd;
