@@ -8,12 +8,20 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="62" fromTop="4" />
       <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:MainForm.cs" caret="199" fromTop="0" />
       <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:Program.cs" caret="53" fromTop="3" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="0" fromTop="0" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="668" fromTop="26" />
     </RecentFiles>
     <RecentEdits>
       <File id="B98E70CF-EE38-48E1-8EA3-50300544E792/f:Program.cs" caret="53" fromTop="3" />
+      <File id="0F8A2B67-4286-4346-9C90-62B0707E862C/f:Peer.cs" caret="0" fromTop="0" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="12" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="4" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="29" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="848" fromTop="35" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="137" fromTop="5" />
+      <File id="B0B6C061-E193-458B-B4FE-29BA9A1BF6DE/f:UnitTests.cs" caret="827" fromTop="30" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -38,11 +46,13 @@
       <Item value="LogOut`0" priority="0" />
       <Item value="outv" priority="0" />
       <Item value="element" priority="0" />
-      <Item value="new" priority="0" />
+      <Item value="new" priority="1" />
       <Item value="AutoResetEvent" priority="0" />
       <Item value="false" priority="0" />
       <Item value="_ev" priority="0" />
       <Item value="msg" priority="0" />
+      <Item value="TestPeerLogin`0" priority="0" />
+      <Item value="Peer" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:agsXMPP.XmppClientConnection">
       <Item value="Close`0" priority="0" />
