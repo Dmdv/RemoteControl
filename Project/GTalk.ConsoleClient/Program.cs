@@ -50,11 +50,11 @@ namespace GTalk.Prototype
 
         private static void Login()
         {
-            var jidUser = new Jid("dmdvinfo@gmail.com");
+            var jidUser = new Jid("dm@gmail.com");
 
             _xmppCon.Username = jidUser.User;
             _xmppCon.Server = jidUser.Server;
-            _xmppCon.Password = "1977perplex";
+            _xmppCon.Password = "qqq";
             _xmppCon.AutoResolveConnectServer = true;
 
             _xmppCon.Open();
@@ -70,7 +70,7 @@ namespace GTalk.Prototype
             var msg = new Message
             {
                 Type = MessageType.chat,
-                To = new Jid("dima.dyachkov@gmail.com"),
+                To = new Jid("dima@gmail.com"),
                 Body = "Тестовое сообщение"
             };
 
